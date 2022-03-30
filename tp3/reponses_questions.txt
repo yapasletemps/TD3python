@@ -1,0 +1,11 @@
+TP3:
+
+1/
+Service Web: Un Service Web est une application qui permet d'échanger des données avec d'autres applications web. Même si ces dernières sont construites dans des langages de programmation différents.
+
+2/
+Une API REST est une interface de programmation d'application qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful. 
+
+3/
+FastAPI est un framework python pour concevoir des API robustes, performantes, documentées et faciles à maintenir.
+Les principales caractéristiques sont :Rapide, Rapide à coder, Moins de bugs, Intuitif, Facile, Court, Robuste, Basé sur des standards.
